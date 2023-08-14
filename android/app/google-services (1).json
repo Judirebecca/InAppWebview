@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720483298963",
+    "project_id": "fir-setup-cdde6",
+    "storage_bucket": "fir-setup-cdde6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720483298963:android:b24a0e46c8c6803b6da766",
+        "android_client_info": {
+          "package_name": "com.example.webviewgesture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720483298963-tc07mj25ss0fo97860mu67bpqk153ubq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc9zRLxa5h3hgQV2qbHeR2RsMBZJHEGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720483298963-tc07mj25ss0fo97860mu67bpqk153ubq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
